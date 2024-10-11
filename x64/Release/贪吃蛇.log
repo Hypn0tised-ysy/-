@@ -1,0 +1,14 @@
+﻿  controller.cpp
+  deque.cpp
+  food.cpp
+C:\Users\14814\source\repos\贪吃蛇\贪吃蛇\food.cpp(12,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  map.cpp
+  point.cpp
+  snake.cpp
+  tools.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 418 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  贪吃蛇.vcxproj -> C:\Users\14814\source\repos\贪吃蛇\x64\Release\贪吃蛇.exe
